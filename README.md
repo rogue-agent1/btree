@@ -1,13 +1,11 @@
-# B-Tree
+# btree
 
-B-Tree — zero-dependency, single-file Python CLI.
+B-tree with insert, search, and ordered traversal.
 
 ## Usage
 
 ```bash
-python3 btree.py --help
+python3 btree.py test
 ```
 
-## License
-
-MIT
+Zero dependencies. Python 3.8+.
